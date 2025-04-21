@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free-Energy-Minimisation | Wouter M. Kouw</title>
+    <link>https://wmkouw.github.io/tag/free-energy-minimisation/</link>
+      <atom:link href="https://wmkouw.github.io/tag/free-energy-minimisation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Free-Energy-Minimisation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Sep 2020 10:40:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wmkouw.github.io/media/icon_hu_3ae30e9b79d035f5.png</url>
+      <title>Free-Energy-Minimisation</title>
+      <link>https://wmkouw.github.io/tag/free-energy-minimisation/</link>
+    </image>
+    
+    <item>
+      <title>Online system identification in a Duffing oscillator using free energy minimisation</title>
+      <link>https://wmkouw.github.io/talk/online-system-identification-in-a-duffing-oscillator-using-free-energy-minimisation/</link>
+      <pubDate>Sun, 13 Sep 2020 10:40:00 +0000</pubDate>
+      <guid>https://wmkouw.github.io/talk/online-system-identification-in-a-duffing-oscillator-using-free-energy-minimisation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
